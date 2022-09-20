@@ -49,15 +49,15 @@ action: "DELETE" location: /students/2
 
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. Read more about [user stories](https://www.atlassian.com/agile/project-management/user-stories).
 
-User Story 1: As a developer, I want to make a new application titled To Do List. 
+User Story 1: As a user, I can password protect my task list
 
-User Story 2: As a developer, my tasks can have a description and a completion status
+User Story 2: As a user, I can see the description and completion status of my tasks
 
-User Story 3: As a developer, I can add a task directly to my database
+User Story 3: As a user, I can update my completion status on a specific task
 
-User Story 4: As a developer, I can ensure that each task is unique
+User Story 4: As a user, I can only have unique task descriptions
 
-User Story 5: As a user, I can navigate to a specific task page and see the description, completion status, and date that task was created.
+User Story 5: As a user, I can navigate to a specific task page and see the description, completion status, and date that task was created
 
 User Story 6: As a user, I can see all tasks on my to do list
 
